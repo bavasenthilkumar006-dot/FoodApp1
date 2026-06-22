@@ -1,0 +1,42 @@
+h1{
+    color: rgb(12, 12, 12);
+    justify-content: center;
+}
+.r{
+    padding: 500px;
+    width: 100px;
+    padding-top: 100px;
+    padding-left: 450px;
+    height: 500px;
+    text: 3px;
+    max-width: 500px;
+    
+}
+body{
+    background-color: rgb(124, 68, 180);
+}
+form{
+    background-color: aliceblue;
+    height:auto;
+    width: 600px;
+    line-height: 50px;
+text-align: left;
+}
+input{
+    border: 2px solid;
+    border-radius: 2px;
+    padding: 5px;
+  
+}
+button{
+     background-color: rgb(124, 68, 180);
+     display: block;
+     border: 2px solid;
+     width: 50%;
+     margin-top: 50px;
+     margin-bottom: 20px;
+     text-align: center;
+     justify-content: center;
+
+}
+    
